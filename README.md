@@ -60,7 +60,7 @@ A discord bot written in python using the discord.py library.
 ## Installation
 1. Clone the repository using 
 ```commandline
-git clone https://github.com/Kishor1445/BlankBot
+git clone https://github.com/menon107/Discord-Bot
 ```
 2. Install the requirements using `pip install -r requirements.txt`
 3. Create a file called `.env` in the root directory of the project and add the following:
