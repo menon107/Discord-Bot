@@ -1,0 +1,8 @@
+venv/
+.env
+.idea/
+.DS_Store
+logs/
+*.pyc
+*.log
+discord.log
